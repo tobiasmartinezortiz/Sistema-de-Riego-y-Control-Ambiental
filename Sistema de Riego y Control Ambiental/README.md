@@ -1,5 +1,3 @@
-\## Estructura del repositorio
-
 Sistema de Riego y Control Ambiental Automatizado v1.0
 Solución de automatización, mitigación de vulnerabilidades e inteligencia ambiental para huertas y jardines.
 
@@ -32,7 +30,7 @@ Requerimientos hídricos específicos por especie.
 Variables climáticas avanzadas.
 Optimización basada en estaciones del año.
 Integración con servicios meteorológicos externos.
-Los parámetros utilizados deben considerarse valores de referencia y pueden requerir calibración o adaptación según el entorno de implementación.
+Los parámetros utilizados deben considerarse valores de referencia y pueden requerir calibración o adaptación según el entorno de implementación. 
 
 Características principales
 Control escalonado de riego según temperatura + humedad.
@@ -46,4 +44,3 @@ Manejo de fallas del sensor de temperatura.
 Arquitectura preparada para migración futura a ESP32 e IoT.
 Estructura del repositorio
 ...
-
