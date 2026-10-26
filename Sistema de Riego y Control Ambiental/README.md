@@ -25,10 +25,14 @@ Manejo de fallas del sensor de temperatura.
 Arquitectura preparada para migración futura a ESP32 e IoT.
 Observaciones importantes
 Matriz de componentes y comparativa simulación vs. producción
-El proyecto incluye una matriz de componentes que compara los elementos utilizados durante la simulación con los componentes recomendados para una implementación física real. Esta información permite comprender las diferencias entre el entorno de pruebas y una futura implementación en campo, facilitando la transición hacia etapas de preproducción y producción.
+El proyecto incluye una matriz de componentes que compara los elementos utilizados durante la simulación con los componentes recomendados para una implementación física real.
+
+Esta información permite comprender las diferencias entre el entorno de pruebas y una futura implementación en campo, facilitando la transición hacia etapas de preproducción y producción.
 
 Código documentado
-El código fuente incluye comentarios explicativos a lo largo de su desarrollo con el objetivo de facilitar la comprensión de la lógica implementada, las decisiones de diseño adoptadas y el funcionamiento de cada bloque funcional. La documentación interna está orientada tanto al aprendizaje como al mantenimiento futuro del sistema.
+El código fuente incluye comentarios explicativos a lo largo de su desarrollo con el objetivo de facilitar la comprensión de la lógica implementada, las decisiones de diseño adoptadas y el funcionamiento de cada bloque funcional.
+
+La documentación interna está orientada tanto al aprendizaje como al mantenimiento futuro del sistema.
 
 Alcance y limitaciones actuales
 Este proyecto se encuentra en una etapa de preproducción y tiene fines educativos, de investigación, validación técnica y demostración conceptual.
@@ -65,7 +69,6 @@ Sistema-de-Riego-y-Control-Ambiental/
 │
 ├── LICENCIA
 └── README.md
-
 
 Futuras mejoras
 Migración a ESP32.
